@@ -4,4 +4,4 @@ Coffee and Hampers Gift Web Aplication
 # List about RintikRindu :
 - Coffee
 - T-Shirt
-- Hampers
+- Hampers (Wisuda,Ulang Tahun dan Lebaran)
